@@ -1,0 +1,143 @@
+Modify 2015.12.18
+
+MiniPlan51_?? 為修改版本：
+MiniPlan51_20
+MiniPlan51_22
+MiniPlan51_23
+MiniPlan51_24
+MiniPlan51_26
+MiniPlan51_31_A,B,C
+MiniPlan51_34
+MiniPlan51_60
+MiniPlan51_61
+MiniPlan51_70
+MiniPlan51_71
+
+----------------------------------------------------------------
+
+Head Parts List (頸部可動):
+
+MiniPlan5_40  x 1 , Fill Density 30% & use Support
+
+MiniPlan5_42  x 1 , Fill Density 100%
+
+MiniPlan5_43  x 1 , Fill Density 100%
+
+MiniPlan51_70 x 2 , Fill Density 100% (眼圈)
+
+
+
+Head Parts List (頸部固定):
+
+MiniPlan5_40  x 1 , Fill Density 30% & use Support
+
+MiniPlan5_41  x 1 , Fill Density 100%
+
+MiniPlan51_70 x 2 , Fill Density 100%
+
+
+----------------------------------------------------------------
+
+
+Arms Parts List :
+
+MiniPlan5_10  x 4 , Fill Density 100%
+
+MiniPlan5_14  x 2 , Fill Density 50%
+
+MiniPlan51_20 x 4 , Fill Density 100%
+
+MiniPlan5_21  x 4 , Fill Density 100%
+
+MiniPlan51_23 x 2 , Fill Density 100%
+
+MiniPlan5_50 (Left)  x 1 , Fill Density 30%
+
+MiniPlan5_51 (Right) x 1 , Fill Density 30%
+
+
+----------------------------------------------------------------
+
+
+Prototype Body Parts List :
+
+MiniPlan5_10    x 2 , Fill Density 100%
+
+MiniPlan5_30    x 1 , Fill Density 30%
+
+MiniPlan51_31_A x 1 , Fill Density 100% (or MiniPlan51_31_C)
+
+MiniPlan5_32    x 1 , Fill Density 100%
+
+MiniPlan51_34   x 1 , Fill Density 100%
+
+
+
+Iron Man Body Parts List :
+
+MiniPlan5_10    x 2 , Fill Density 100%
+
+MiniPlan5_30    x 1 , Fill Density 30%
+
+MiniPlan5_32    x 1 , Fill Density 100%
+
+MiniPlan51_31_B x 1 , Fill Density 100%
+
+MiniPlan51_71   x 1 , Fill Density 30% (發光板)
+
+MiniPlan51_34   x 1 , Fill Density 100%
+
+
+----------------------------------------------------------------
+
+
+Left Leg Parts List :
+
+MiniPlan5_10         x 4 , Fill Density 100%
+
+MiniPlan5_11         x 3 , Fill Density 100%
+
+MiniPlan5_13 (Left)  x 1 , Fill Density 100%
+
+MiniPlan51_20        x 2 , Fill Density 100%
+
+MiniPlan5_21         x 2 , Fill Density 100%
+
+MiniPlan51_22        x 2 , Fill Density 100%
+
+MiniPlan51_24        x 1 , Fill Density 100%
+
+MiniPlan5_25         x 1 , Fill Density 100%
+
+MiniPlan51_26        x 1 , Fill Density 100%
+
+MiniPlan5_27         x 1 , Fill Density 100%
+
+MiniPlan51_60 (Left) x 1 , Fill Density 100%
+
+
+
+Right Leg Parts List :
+
+MiniPlan5_10          x 4 , Fill Density 100%
+
+MiniPlan5_11          x 3 , Fill Density 100%
+
+MiniPlan5_12 (Right)  x 1 , Fill Density 100%
+
+MiniPlan51_20         x 2 , Fill Density 100%
+
+MiniPlan5_21          x 2 , Fill Density 100%
+
+MiniPlan51_22         x 2 , Fill Density 100%
+
+MiniPlan51_24         x 1 , Fill Density 100%
+
+MiniPlan5_25          x 1 , Fill Density 100%
+
+MiniPlan51_26         x 1 , Fill Density 100%
+
+MiniPlan5_27          x 1 , Fill Density 100%
+
+MiniPlan51_61 (Right) x 1 , Fill Density 100% 
+
